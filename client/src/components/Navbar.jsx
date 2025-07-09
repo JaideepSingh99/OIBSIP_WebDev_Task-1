@@ -63,11 +63,6 @@ const Navbar = () => {
               <li>
                 <Link to="/my-orders" className="font-medium">My Orders</Link>
               </li>
-              {user.role === "admin" && (
-                <li>
-                  <Link to="/admin" className="font-medium">Admin Dashboard</Link>
-                </li>
-              )}
             </ul>
           </div>
         </div>
