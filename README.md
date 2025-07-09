@@ -38,6 +38,10 @@ A full-stack Pizza Delivery Web Application built using **React**, **Node.js**, 
 - ⚠️ Low Stock Detection + Email Alerts (threshold check)
 - ✅ Order Status Management: Pending → Received → In Kitchen → Out for Delivery → Delivered
 
+- ## 🔐 Admin Credentials
+- email: crustnflame26@gmail.com
+- password: crustnflame2030
+
 ---
 
 ### 🖥️ Clone the Repository
